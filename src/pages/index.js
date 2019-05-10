@@ -22,7 +22,6 @@ const IndexPage = () => (
     <div className="div-text">
       <h1>Willkommen!</h1>
       <p id="p1">Diese Website spiegelt meinen Lebenslauf wider.</p>
-      <br />
       <p id="p2">
         Hier finden Sie Informationen{" "}
         <Link className="links-index" to="/Aboutme">
