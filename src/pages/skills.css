@@ -1,0 +1,48 @@
+h2 {
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.p-name {
+  text-align: right;
+  margin-right: 0;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.table-left {
+  border: none;
+  text-align: right;
+  padding: 0;
+
+  width: 400px;
+}
+
+.ul-points {
+  border: none;
+
+  color: #e7aba1;
+}
+
+.table-right {
+  text-align: left;
+  width: 400px;
+  border: none;
+  margin: 0;
+}
+
+table {
+  text-decoration: none;
+  justify-content: center;
+  font-size: 16px;
+}
+
+td {
+  margin-bottom: 2rem;
+}

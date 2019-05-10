@@ -1,0 +1,36 @@
+h1 {
+  font-family: great vibes;
+  text-align: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 40px;
+}
+
+.p1 {
+  margin: 0;
+  text-align: center;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+}
+
+.p2 {
+  margin-bottom: 10rem;
+  text-align: center;
+}
+
+.div-text {
+  text-align: center;
+  justify-content: center;
+  margin: 0 2rem 3rem 2rem;
+}
+
+.links-index {
+  font-family: montserrat;
+  text-decoration: none;
+  color: black;
+}
+
+.links-index:hover {
+  color: #e7aba1;
+}

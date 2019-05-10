@@ -1,0 +1,25 @@
+.p-date {
+  font-size: 12px;
+  font-weight: bold;
+  color: pink;
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+  text-transform: uppercase;
+}
+
+.p-study {
+  font-size: 16px;
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+}
+
+.p-uni {
+  font-weight: inherit;
+  text-align: center;
+  margin: 0;
+}
+
+.div-text {
+  font-size: 16px;
+}

@@ -1,0 +1,38 @@
+.p-copyright {
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: montserrat;
+  font-size: 0.6rem;
+  height: 80px;
+}
+
+.link-footer {
+  text-decoration: none;
+  color: black;
+}
+
+.link-footer:hover {
+  font-weight: bold;
+  color: #e7aba1;
+}
+
+.link-gatsby {
+  color: black;
+  text-decoration: none;
+  font-size: 0.6rem;
+}
+
+.link-gatsby:hover {
+  font-weight: bold;
+  color: #e7aba1;
+}
+
+footer {
+  position: relative;
+  bottom: 0;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: #f0e3db;
+}

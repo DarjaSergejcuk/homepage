@@ -1,0 +1,35 @@
+.p-time {
+  font-size: 12px;
+  font-weight: bold;
+  color: pink;
+  text-align: left;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.p-company {
+  font-size: 16px;
+  font-weight: inherit;
+  font-style: italic;
+  text-align: left;
+  margin: 0;
+}
+
+.p-job {
+  font-weight: inherit;
+  text-align: left;
+  margin: 0;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.ul-descr {
+  text-align: left;
+  margin: 0;
+  list-style-type: disc;
+  font-size: 14px;
+}
+
+.div-text {
+  font-size: 16px;
+}
