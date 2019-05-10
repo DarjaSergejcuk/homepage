@@ -22,7 +22,7 @@ const Header = ({ siteTitle }) => (
             activeClassName="active-nav-item"
             to="/Aboutme"
           >
-            Über mich
+            ÜberMich
           </Link>
         </li>
         <li>
