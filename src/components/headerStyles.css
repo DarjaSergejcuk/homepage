@@ -18,6 +18,7 @@ img {
   justify-content: center;
   background-color: white;
   height: 30px;
+  width: 100%;
 }
 
 .nav-list {

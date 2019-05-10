@@ -31,6 +31,7 @@ const BerufserfahrungPage = () => (
           Abrechnung und Auswertung der Fensterdekorationen
         </ul>
       </p>
+      <br />
       <p className="p-time">05/2018 - 08/2018</p>
       <p className="p-company"> Shiseido Germany GmbH </p>
       <p className="p-job"> Praktikantin im Marketing - Makeup & Pflege</p>
@@ -49,6 +50,7 @@ const BerufserfahrungPage = () => (
         </ul>
         <ul className="ul-descr">Durchführung von Abverkaufswettbewerben</ul>
       </p>
+      <br />
       <p className="p-time">12/2017 - 05/2018</p>
       <p className="p-company"> Henkel Beauty Care (über Avantgarde Experts)</p>
       <p className="p-job"> Junior Digital Marketing Managerin</p>
@@ -65,6 +67,7 @@ const BerufserfahrungPage = () => (
         </ul>
         <ul className="ul-descr">Mitwirkung im Influencer Marketing und PR</ul>
       </p>
+      <br />
       <p className="p-time">03/2017 - 08/2017</p>
       <p className="p-company">Drivango GmbH (E.ON StartUp)</p>
       <p className="p-job"> Praktikantin im Online- & Affiliate Marketing</p>
@@ -79,6 +82,7 @@ const BerufserfahrungPage = () => (
         <ul className="ul-descr">Betreuung der Social-Media Kanäle</ul>
         <ul className="ul-descr">Betreuung der Affiliate Partner</ul>
       </p>
+      <br />
       <p className="p-time">02/2016 - 02/2017</p>
       <p className="p-company">UL International GmbH</p>
       <p className="p-job">HR Assistentin</p>
@@ -91,6 +95,7 @@ const BerufserfahrungPage = () => (
         </ul>
         <ul className="ul-descr">Project Management</ul>
       </p>
+      <br />
       <p className="p-time">06/2014 - 08/2014</p>
       <p className="p-company">DIZO Online Marketing</p>
       <p className="p-job">Praktikantin Suchmaschinenoptimierung</p>
